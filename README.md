@@ -2,7 +2,7 @@
 
 > **1K-layer $0.0146; 1K $0.0293; 2K-layer $0.0293** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-a18f83)** · **[Get an API key](https://go.apimart.ai/k-4ac1a3)**
 
 Everything here refers to **seedream-5.0** — also written **seedream5.0** or **seedream 5.0**.
 
