@@ -1,0 +1,31 @@
+{
+  "id": "seedream-5-0-pro",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:00Z",
+  "prices": {
+    "default": {
+      "list": 0.045,
+      "effective": 0.036
+    },
+    "1K": {
+      "list": 0.0365625,
+      "effective": 0.02925
+    },
+    "1K-layer": {
+      "list": 0.01828125,
+      "effective": 0.014625
+    },
+    "2K": {
+      "list": 0.073125,
+      "effective": 0.0585
+    },
+    "2K-layer": {
+      "list": 0.0365625,
+      "effective": 0.02925
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.014625 per image (1K-layer $0.014625 · 1K $0.02925 · 2K-layer $0.02925)",
+  "model_page": "https://apimart.ai/model/seedream-5-0-pro"
+}
